@@ -1,7 +1,9 @@
 Sales-Forecasting
 ==============================
 
-A short description of the project.
+Prediction of 3 months of item-level sales data at 10 different store locations.
+
+
 
 Project Organization
 ------------
