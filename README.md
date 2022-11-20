@@ -3,6 +3,9 @@ Sales-Forecasting
 
 Prediction of 3 months of item-level sales data at 10 different store locations.
 
+This project maes use of [darts](https://unit8co.github.io/darts/index.html) for time series analysis and prediction.
+
+This project is mostly a learning exercise to acclimate myself with use of darts for analysis, and therefore a focus is placed on the analysis portion, with data being provided from [kaggle](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data).
 
 
 Project Organization
