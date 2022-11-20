@@ -12,6 +12,13 @@ The best score (12.58013) was generated from an N-BEATS deep learning model with
 This model actually slightly outperformed the winning Kaggle score (12.58015), although there has been four years of devlopment since the competition was published!
 
 
+The project repo is fairly empty, as it has been made with the cookiecutter package.
+The notebooks folder actually contains the analysis.
+
+I may pick this project up in future to create a proper report or saved trained model.
+
+
+
 Project Organization
 ------------
 
