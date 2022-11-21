@@ -7,10 +7,13 @@ This project maes use of [darts](https://unit8co.github.io/darts/index.html) for
 
 This project is mostly a learning exercise to acclimate myself with use of darts for analysis, and therefore a focus is placed on the analysis portion, with data being provided from [kaggle](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data).
 
-The best score (12.58013) was generated from an N-BEATS deep learning model with Optuna hyperparameter tuning.
+The best score (12.180) was generated from an N-BEATS deep learning model with Optuna hyperparameter tuning.
 
-This model actually slightly outperformed the winning Kaggle score (12.58015), although there has been four years of devlopment since the competition was published!
+This model is comprable in performance to the winning Kaggle score (12.58015), although there has been four years of devlopment since the competition was published!
 
+Final plot of the predictions vs actual sales for a single store and item can be seen below.
+
+![plot showing training vs actual data for final model](reports/figures/final_pred.png "Training vs actual data for final modelplot")
 
 The project repo is fairly empty, as it has been made with the cookiecutter package.
 The notebooks folder actually contains the analysis.
